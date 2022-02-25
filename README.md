@@ -76,8 +76,6 @@
 
 ![img/passo15.png](img/passo15.jpg)
 
-22. Agora vamos integrar o amplify ao projeto. no Cloud9 execute o comando `amplify init`
-
 23. Agora vamos integrar o amplify ao projeto. no Cloud9 execute o comando `amplify init` digite o nome do seu projeto e depois aperte **Y** e Enter para confirmar
 
 ![img/passo16.png](img/passo16.jpg)
